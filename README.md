@@ -21,7 +21,7 @@ The assessment was conducted as a practical exercise to demonstrate proficiency 
 
 | Tool | Purpose |
 |---|---|
-| Burp Suite Professional | Proxy, CSRF PoC generation, Collaborator (OOB exfiltration) |
+| Burp Suite Professional | Proxy, CSRF PoC generation, Collaborator |
 | Gobuster | Directory and endpoint enumeration |
 | ffuf | Parameter fuzzing |
 | SecLists | Wordlists for enumeration and fuzzing |
