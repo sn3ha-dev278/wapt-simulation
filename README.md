@@ -1,4 +1,4 @@
-# WAPT Simulation
+# Web Application Penetration Testing - Simulation
 
 A web application penetration testing report series conducted against a deliberately vulnerable banking application built on ASP.NET Core (Kestrel). This portfolio documents 23 findings across six vulnerability categories, ranging from Low-severity information disclosures to Critical-severity privilege escalation chains.
 
