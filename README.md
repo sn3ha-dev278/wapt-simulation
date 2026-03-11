@@ -1,6 +1,6 @@
 # Web Application Penetration Testing - Simulation
 
-A web application penetration testing report series conducted against a deliberately vulnerable banking application built on ASP.NET Core (Kestrel). This portfolio documents 23 findings across six vulnerability categories, ranging from Low-severity information disclosures to Critical-severity privilege escalation chains.
+A web application penetration testing report series conducted against a deliberately vulnerable banking application built on ASP.NET Core (Kestrel). It documents 23 findings across six vulnerability categories, ranging from Low-severity information disclosures to Critical-severity privilege escalation chains.
 
 The assessment was conducted as a practical exercise to demonstrate proficiency in web application penetration testing methodology, manual exploitation, and professional security reporting.
 
